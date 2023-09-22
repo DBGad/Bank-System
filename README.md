@@ -15,7 +15,7 @@ Can Handl Clients , Users and Currency
 - All screens have a special code
 
 ## ScreenShots
-On Second ReadMe File Name "ScreenShots.md"
+in Second ReadMe File Name "ScreenShots.md"
 
 ## Run Locally
 
