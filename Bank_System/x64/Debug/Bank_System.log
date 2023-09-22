@@ -1,0 +1,22 @@
+﻿  Bank_System.cpp
+D:\untitled3\Bank_System\Bank_System\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsString.h(193,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsString.h(324,28): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsString.h(372,20): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+D:\untitled3\Bank_System\Bank_System\clsBankClient.h(22,147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsAddNewClientScreen.h(11,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsUpdateClientScreen.h(12,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsDepsiteScreen.h(33,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsWithdrawScreen.h(32,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsTotalBalance.h(51,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsTransferScreen.h(41,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsTransferScreen.h(42,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\untitled3\Bank_System\Bank_System\clsLoginRigesters.h(18,27): warning C4129: 'R': unrecognized character escape sequence
+D:\untitled3\Bank_System\Bank_System\clsLoginWindow.h(43): warning C4715: 'clsLoginWindow::_Login': not all control paths return a value
+D:\untitled3\Bank_System\Bank_System\clsMainScreen.h(169): warning C4715: 'clsMainScreen::_MainMenu': not all control paths return a value
+D:\untitled3\Bank_System\Bank_System\clsBankClient.h(175): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\untitled3\Bank_System\Bank_System\clsBankUser.h(309): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank_System.vcxproj -> D:\untitled3\Bank_System\x64\Debug\Bank_System.exe
